@@ -37,9 +37,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/keithrsialana/keithrsialana/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keithrsialana&radius=16&theme=github-dark&area=true&order=5&hide_title=false&line=4F759B&point=A2FAA3&title_color=FC5130&area_color=7289DA" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=keithrsialana&theme=discord&column=-1&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
@@ -47,8 +48,8 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:keith.sialana@gmail.com" target="_blank">
+<div align="center">
+  <a href="keith.sialana@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/keithrsialana/" target="_blank">
@@ -58,7 +59,7 @@
 
 ###
 
-<h1 align="center">Tech Experience</h1>
+<h1 align="center">Other Tech Experience</h1>
 
 ###
 
@@ -70,6 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
