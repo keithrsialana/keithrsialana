@@ -1,4 +1,7 @@
-<h2 align="left">Hello Friends!👋My name is Keith Sialana and I'm a Web Developer from Canada!</h2>
+<h1 align="center">Hello Friends!👋My name is Keith Sialana and I'm a Web Developer from Canada!</h1>
+<p align="center">
+  I've been into programming since highschool. I've dipped my toes into Software Development, Video Game Development, and even Robotics. My favorite programming of all is Front-End Web Development. Come check out some of my projects!
+</p>
 
 ###
 
@@ -31,15 +34,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keithrsialana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keithrsialana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keithrsialana&radius=16&theme=github-dark&area=true&order=5&hide_title=false&line=4F759B&point=A2FAA3&title_color=FC5130&area_color=7289DA" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=keithrsialana&theme=discord&column=-1&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=keithrsialana&hide_border=true&background=2277EB00&sideNums=2486EB&currStreakNum=2486EB&dates=74A5EB&currStreakLabel=2486EB&excludeDaysLabel=2486EB&sideLabels=2486EB" alt="GitHub Streak" />
+  </a>
 </div>
 
 ###
